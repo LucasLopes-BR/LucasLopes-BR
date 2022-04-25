@@ -11,7 +11,7 @@
 <h4 align="center"> Economista </h4>
 <h4 align="center"> Mestre em Economia e Gestão de Ciência, Tecnologia e Inovação </h4>
 
-Carreira em desenvolvimento nas áreas de Dados, Tecnologia, Estratégia, Desenvolvimento, Inovação e Negócios. Profissional com mestrado em Economia e Gestão de Ciência, Tecnologia e Inovação, com vasto conhecimento em ciência e análise de dados,indicadores de performance, estratégia e planejamento com foco na otimização de recursos e resultado.
+Carreira em desenvolvimento nas áreas de Dados, Tecnologia, Estratégia, Desenvolvimento, Inovação e Negócios. Profissional com mestrado em Economia e Gestão de Ciência, Tecnologia e Inovação, com vasto conhecimento em ciência e análise de dados, indicadores de performance, estratégia e planejamento com foco na otimização de recursos e resultado.
 
 <b> Cientista de dados </b> com foco em coleta, estruturação e manipulação de dados para desenvolver modelos descritivos e preditivos visando resolver problemas e análises diversas.
 
