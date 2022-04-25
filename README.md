@@ -57,6 +57,7 @@ Carreira em desenvolvimento nas áreas de Dados, Tecnologia, Estratégia, Desenv
 
 <img src="https://github-readme-stats.vercel.app/api?username=LucasLopes-BR&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasLopes-BR&layout'/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLopes-BR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-          Made with 💖 by Lucas Lopes
+
+Made with 💖 by Lucas Lopes
